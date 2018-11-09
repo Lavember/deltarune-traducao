@@ -38,3 +38,9 @@ Vamos verificar se a tradução está correta, isso pode demorar um pouco, você
 **Eric Holmes** - Criador original do servidor do Discord da tradução
 
 **BMatSantos** - Responsável por possibilitar acentos no jogo.
+
+**Marcelo** - Tradutor e Ajudante
+
+**KnG** - Revisão da tradução
+
+e mais outros tradutores que estão ajudando!
